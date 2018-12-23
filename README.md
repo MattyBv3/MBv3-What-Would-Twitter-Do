@@ -1,13 +1,22 @@
-# MBv3-What-Would-Twitter-Do
+# MBv3's-What-Would-Twitter-Do
 A Python script to perform sentiment analysis, and so much more, for a user-prompted Twitter handle.
 
 What Would Twitter Do (Sentiment Analysis+)
 ======
-**What Would Twitter Do** is a Twitter sentiment analysis tool. Yes, one of the hundreds. Why will this be different?
+**What Would Twitter Do** is a Twitter sentiment analysis tool. 
+Yes, one of the hundreds. Why will this be different?
 
 - Easy: Users need only the Twitter handle they want to analyze and their Twitter API credentials to run a quick SA
 - Fast: No code needs to be modified to run the script
 - Customizable: Multiple options for timeline, data visualization, etc. available through prompts
+
+## Version Steps/Goals
+* Finalize initial version with a quick, easy, user-prompted 'Analysis Overview'
+* Add multiple plot/graph options
+* Add multiple comparison options
+* Add monitoring and notification features
+* Incorporate scikit-learn for sentiment predictions
+* Expand sentiment data sources (Reddit, RSS feeds, etc.)
 
 ## Download
 * This is most definitely a Work in Progress... not even beta yet
