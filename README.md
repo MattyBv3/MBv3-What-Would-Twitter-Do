@@ -22,7 +22,7 @@ Yes, one of the hundreds. Why will this be different?
 * This is most definitely a Work in Progress... not even beta yet
 * Download to test/inspect/modify/etc. only
 * [twitcred_sample](https://github.com/MattyBv3/MBv3-What-Would-Twitter-Do/blob/master/twitcred_sample.py) must be modified to contain your personal Twitter API credentials until prompts are created in the primary script.
-* [wwtd_v0.1.0](https://github.com/MattyBv3/MBv3-What-Would-Twitter-Do/blob/master/wwtd_v0.1.0.py) is the primary script.
+* [wwtd_v0.1.1](https://github.com/MattyBv3/MBv3-What-Would-Twitter-Do/blob/master/wwtd_v0.1.1.py) is the primary script.
 
 ## Pre-requisites
 - Twitter Dev Account 
